@@ -2,7 +2,6 @@ new file added
 
 Blah blah blah
 
-<<<<<<< HEAD
 I added new branch Moses
 
 
