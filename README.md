@@ -9,3 +9,6 @@ create conflicting changes
 
 Create some conflicting changes
 
+Anna wanna bring conflict
+
+Forgot to commit
